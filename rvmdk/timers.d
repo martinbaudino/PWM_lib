@@ -1,0 +1,17 @@
+.\rvmdk\timers.o: timers.c
+.\rvmdk\timers.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\rvmdk\timers.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\rvmdk\timers.o: C:\ti\TivaWare_C_Series-2.1.2.111\inc/hw_ints.h
+.\rvmdk\timers.o: C:\ti\TivaWare_C_Series-2.1.2.111\inc/hw_memmap.h
+.\rvmdk\timers.o: C:\ti\TivaWare_C_Series-2.1.2.111\inc/hw_types.h
+.\rvmdk\timers.o: C:\ti\TivaWare_C_Series-2.1.2.111\driverlib/debug.h
+.\rvmdk\timers.o: C:\ti\TivaWare_C_Series-2.1.2.111\driverlib/fpu.h
+.\rvmdk\timers.o: C:\ti\TivaWare_C_Series-2.1.2.111\driverlib/gpio.h
+.\rvmdk\timers.o: C:\ti\TivaWare_C_Series-2.1.2.111\driverlib/interrupt.h
+.\rvmdk\timers.o: C:\ti\TivaWare_C_Series-2.1.2.111\driverlib/pin_map.h
+.\rvmdk\timers.o: C:\ti\TivaWare_C_Series-2.1.2.111\driverlib/rom.h
+.\rvmdk\timers.o: C:\ti\TivaWare_C_Series-2.1.2.111\driverlib/sysctl.h
+.\rvmdk\timers.o: C:\ti\TivaWare_C_Series-2.1.2.111\driverlib/timer.h
+.\rvmdk\timers.o: C:\ti\TivaWare_C_Series-2.1.2.111\driverlib/uart.h
+.\rvmdk\timers.o: C:\ti\TivaWare_C_Series-2.1.2.111\utils/uartstdio.h
+.\rvmdk\timers.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
